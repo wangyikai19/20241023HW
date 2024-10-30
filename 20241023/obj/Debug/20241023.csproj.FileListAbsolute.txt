@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\bin\Debug\20241023.exe.config
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\bin\Debug\20241023.exe
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\bin\Debug\20241023.pdb
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\obj\Debug\20241023.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\obj\Debug\20241023.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\obj\Debug\20241023.exe
+C:\Users\HP\Desktop\火箭隊-backend\20241023\20241023\obj\Debug\20241023.pdb
